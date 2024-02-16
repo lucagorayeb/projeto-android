@@ -50,14 +50,16 @@ h1.bebas-neue-regular{
     padding: 37px;
     margin:  -24px;
     text-align: center;
-    font-size: 2.1em;
+    font-size: 2.2em;
 }
 
 header > p{
-    padding: 15px;
+    padding: 30px;
     margin: 0px;
+    margin-top: -8px;
+    margin-bottom: -8px;
     text-align: center;
-    font-size: 12px;
+    font-size: medium;
 }
 
 header > nav{
@@ -71,7 +73,7 @@ header > nav > a{
     font-weight: bold;
     text-decoration: none;
     padding-right: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     transition-duration: 0.5s;
 }
 
